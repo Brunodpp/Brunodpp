@@ -23,7 +23,7 @@
 <!--Intro start-->
 - 🔭 No momento uso **PostgresSQL, Python, C++, C**
 
-- 🌱 Estou estudando **Programação Competitiva**
+- 🌱 Estou estudando **Programação Competitiva** e **Machine Learning**
 
 <!--Intro end-->
 
